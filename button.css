@@ -3,23 +3,24 @@ body{
     color: white;
     letter-spacing: 1px;
     text-align: center;
+    font-family: Righteous,cursive;
 }
 h1{
 	margin-top: 35px;
 }
+h5{
+	font-size: 7px;
+}
 p{
-	text-align: justify;
     letter-spacing: 0px;
 }
 #topExt{
 	width: 250px;
-	font-family: Righteous,cursive;
 }
 #bottomExt{
 	width: 250px;
-	height: 150px;
+	height: 125px;
 	display: flex;
-	font-family: Righteous,cursive;
 }	
 /*start https://codepen.io/kathykato/pen/gOOjgmP*/
 #injectTableButton {
